@@ -1,0 +1,42 @@
+commit a04be9352807ddfa89813228a19d2d21e6825b18
+Merge: 1ccacea 62a45bf
+Author: kazumamorisita <231205177@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 6 15:59:12 2024 +0900
+
+    Merge branch 'main' of https://github.com/kazumamorisita/tes_506
+
+commit 1ccaceab85d21b618bb6313006148234ecafb1cc
+Author: kazumamorisita <231205177@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 6 15:54:31 2024 +0900
+
+    ピースの色を変更
+    
+    skyblueに
+
+commit 62a45bf0d1406bc518bf969dfb67d85cdd486535
+Author: kazumamorisita <145832060+kazumamorisita@users.noreply.github.com>
+Date:   Mon May 6 15:51:25 2024 +0900
+
+    Update tetris.js
+
+commit b306c4c0927b5930217a9a5c00dab0246ca85b90
+Author: kazumamorisita <231205177@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 6 15:45:38 2024 +0900
+
+    ピースが落ちてくる速度を変更
+    
+    少し遅く調整
+
+commit 15c03ef78bfcff6f98db5c71935305d845c99e93
+Author: kazumamorisita <231205177@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 6 15:38:02 2024 +0900
+
+    ピースの色を変更
+    
+    深緑を明るい色に変更
+
+commit 6c1771792d9655c035496d440b5aa8ebd1b3a39d
+Author: kazumamorisita <231205177@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 6 15:17:50 2024 +0900
+
+    canvas-tetrisのソースコート度をインポート
